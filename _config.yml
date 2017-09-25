@@ -21,4 +21,4 @@ email: "hello@garrettboatman.com" # This is my real email address. Please don't 
 
 exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
